@@ -44,3 +44,31 @@ A partir de la, on peut faire des wireframes
 - <https://excalidraw.com/>
 - <https://www.figma.com/>
 - <https://penpot.app/>
+
+## La méthode agile
+
+La méthode agile est une approche de gestion de projet qui se concentre sur la livraison itérative et incrémentale de produits. Elle repose sur quatre valeurs fondamentales et douze principes, tels que définis dans le Manifeste Agile.
+
+### Les 4 valeurs fondamentales
+
+1. **Les individus et leurs interactions** plus que les processus et les outils.
+2. **Des logiciels opérationnels** plus qu'une documentation exhaustive.
+3. **La collaboration avec les clients** plus que la négociation contractuelle.
+4. **L'adaptation au changement** plus que le suivi d'un plan.
+
+#### Les 12 principes de l'Agile
+
+1. La priorité est de satisfaire le client en livrant rapidement et régulièrement des fonctionnalités à grande valeur ajoutée.
+2. Accueillir positivement les changements de besoins, même tard dans le développement.
+3. Livrer fréquemment des logiciels opérationnels, avec une préférence pour des cycles courts.
+4. Les utilisateurs ou leurs représentants et les développeurs doivent travailler ensemble quotidiennement tout au long du projet.
+5. Construire des projets autour d'individus motivés. Leur fournir l'environnement et le soutien dont ils ont besoin, et leur faire confiance pour atteindre les objectifs fixés.
+6. La méthode la plus efficace pour transmettre de l'information est la conversation en face à face.
+7. Un logiciel opérationnel est la principale mesure de progression.
+8. Les processus agiles encouragent un rythme de développement soutenable.
+9. Une attention continue à l'excellence technique et à une bonne conception renforce l'agilité.
+10. La simplicité – l'art de maximiser la quantité de travail non fait – est essentielle.
+11. Les meilleures architectures, spécifications et conceptions émergent d'équipes auto-organisées.
+12. À intervalles réguliers, l'équipe réfléchit aux moyens de devenir plus efficace, puis ajuste et règle son comportement en conséquence.
+
+Pour plus d'informations, vous pouvez consulter le [Manifeste Agile](https://agilemanifesto.org/).
