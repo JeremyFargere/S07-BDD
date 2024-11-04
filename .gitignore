@@ -1,0 +1,4 @@
+node_modules
+# Le fichier .env sert à mettre des variables dont on a besoin pour nos applications, ces variables sont souvent des infos sensibles : mot de passe de BDD
+.env
+.vscode
