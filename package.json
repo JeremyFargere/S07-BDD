@@ -3,14 +3,23 @@
   "version": "0.0.1",
   "description": "Une application de visualisation de données pour une école",
   "main": "index.js",
-  "type": "module",
   "directories": {
     "doc": "docs"
   },
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
-    "dev": "node --watch index.js"
+    "start": "node index.js",
+    "dev": "node --watch index.js",
+    "watch": "nodemon index.js"
   },
+  "dependencies": {
+    "dotenv": "^16.4.5",
+    "ejs": "^3.1.10",
+    "express": "^4.21.1"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.7"
+  },
+  "type": "module",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/O-clock-Skaven/S07-BDD.git"
@@ -27,9 +36,5 @@
   "bugs": {
     "url": "https://github.com/O-clock-Skaven/S07-BDD/issues"
   },
-  "homepage": "https://github.com/O-clock-Skaven/S07-BDD#readme",
-  "dependencies": {
-    "ejs": "^3.1.10",
-    "express": "^4.21.1"
-  }
+  "homepage": "https://github.com/O-clock-Skaven/S07-BDD#readme"
 }
