@@ -4,18 +4,19 @@
 
 ## Etapes de création d'un serveur express
 
-- [ ] `npm init` ou `npm init -y`
-- [ ] Installer les modules nécessaire au fonctionnement de l'app : `express`, `ejs`
-- [ ] Mettre `"type": "module"` dans `package.json`
-- [ ] Faire un `.gitignore`
-- [ ] Créer des dossiers : `src/controllers`, `src/router`, `src/views`, `public`
+- [x] `npm init` ou `npm init -y`
+- [x] Installer les modules nécessaire au fonctionnement de l'app : `express`, `ejs`
+- [x] Mettre `"type": "module"` dans `package.json`
+- [x] Faire un `.gitignore`
 - [ ] Créer le point d'entrée de l'app (`index.js`)
-  - [ ] Importer express et créer un serveur http
-  - [ ] Importer les views
-  - [ ] Importer le middleware `express.static` , ce sont des fichiers que le HTML va demander (css, js front, images etc etc)
+  - [x] Importer express et créer un serveur http
+- [ ] Créer les scripts de lancement de l'app
+- [ ] Créer un routeur
+- [ ] Créer des dossiers : `src/controllers`, `src/router`, `src/views`, `public`, `data`
+- [ ] Importer les views
+- [ ] Importer le middleware `express.static` , ce sont des fichiers que le HTML va demander (css, js front, images etc etc)
   - [ ] Voir les locals
-- [ ] Créer un rooter
-  
+
 ## Plan pour faire une fonction addition
 
 - [ ] trouver un nom de fonction
