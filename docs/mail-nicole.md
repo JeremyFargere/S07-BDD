@@ -1,6 +1,6 @@
 # Bonjour
 
-nous sommes une école qu'elle est bien, et nous voulons un outil pour faciliter les contacts entre étudiants.
+Nous sommes une école qu'elle est bien, et nous voulons un outil pour faciliter les contacts entre étudiants.
 
 Nous aimerions donc pouvoir lister les promotions ainsi que les étudiants qui les composent,
 mais aussi accéder aux détails d'un étudiant, photo de profil comprise.

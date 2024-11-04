@@ -2,7 +2,9 @@
 
 ---
 
-Les User Stories sont la description des fonctionnalités d'une application.
+Les User Stories sont la description des fonctionnalités d'une application, le format à utilisé est précis :
+
+- En tant que ... je souhaite ... afin de ...
 
 ---
 
